@@ -855,9 +855,10 @@ select:focus {
     .hero-area .item.center {
       text-align: right; }
       .hero-area .item.center .content {
-        padding-left: 15%;
-        padding-right: 15%;
-        text-align: center; }
+        
+        
+      text-align: left;
+      margin-top: 170px; }
     .hero-area .item.right {
       text-align: center; }
       .hero-area .item.right .content {
@@ -888,7 +889,7 @@ select:focus {
       -o-transition: all 1.4s ease-in-out .7s;
       transition: all 1.4s ease-in-out .7s; }
     .hero-area .item .content .title {
-      font-size: 60px;
+      font-size: 50px;
       font-weight: 700;
       line-height: 70px;
       margin-bottom: 20px;
